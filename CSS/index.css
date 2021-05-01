@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    /* background-image: linear-gradient(to right, #053137, #003655, #003779, #003095, #3e0098); */
+    /* background-image: linear-gradient(to right top, #a56bd1, #798cef, #41a8fb, #0fbff9, #3ed2ee, #45dee6, #5ee9db, #7ff2cd, #8cf8b7, #a5fc9b, #c7fd7d, #edfb5f); */
+    /* background-image: linear-gradient(to right, #c46bd1, #968ff5, #5dacff, #28c3ff, #3fd5f4, #44e0eb, #5deadd, #7ff2cd, #8cf8b7, #a5fc9b, #c7fd7d, #edfb5f);*/
+    /* background-image: linear-gradient(to right, #370000, #5b1b0c, #7b3d0a, #926400, #9f8e00, #97a40f, #87b929, #6ecf48, #56cf65, #3ecf7e, #29cd94, #22cba6); */
+    /* background-image: linear-gradient(to right, #ffffff, #def4ff, #93f2ff, #11f0f2, #00e7aa, #33e08c, #4fd86c, #66cf49, #4ecf66, #37cf7f, #24cd94, #22cba6);
+    background-image: linear-gradient(to right, #ffffff, #def5ff, #91f4ff, #00f3f3, #12eba9); */
+}
+.navbar{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    /* background-image: linear-gradient(to right, #ffffff, #def4ff, #93f2ff, #11f0f2, #00e7aa, #33e08c, #4fd86c, #66cf49, #4ecf66, #37cf7f, #24cd94, #22cba6);
+    background-image: linear-gradient(to right, #ffffff, #def5ff, #91f4ff, #00f3f3, #12eba9); */
+    /* background-image: linear-gradient(to right top, #a56bd1, #798cef, #41a8fb, #0fbff9, #3ed2ee, #45dee6, #5ee9db, #7ff2cd, #8cf8b7, #a5fc9b, #c7fd7d, #edfb5f); */
+    /* background-image: linear-gradient(to right top, #370510, #60002b, #820058, #93009a, #7a12eb); */
+    /* background-image: linear-gradient(to right, #370000, #5b1b0c, #7b3d0a, #926400, #9f8e00, #97a40f, #87b929, #6ecf48, #56cf65, #3ecf7e, #29cd94, #22cba6); */
+    /* background-image: linear-gradient(to right, #c46bd1, #968ff5, #5dacff, #28c3ff, #3fd5f4, #44e0eb, #5deadd, #7ff2cd, #8cf8b7, #a5fc9b, #c7fd7d, #edfb5f); */
+    /* color: blue; */
+    align-items: center;
+    /* padding-right: 40px; */
+    font-family: 'Texturina', serif;
+
+}
+#navbarMid{
+    /* padding-left: 1000px; */
+}
+.card{
+    margin-bottom: 10px;
+}
+#searchButton{
+    background-image: linear-gradient(to right, #051937, #002c60, #003f8c, #0053bb, #1267eb);
+
+    color: azure;
+}
+.li{
+    /* margin-right: 40px; */
+
+}
+#logo{
+    height: 100spx;;
+    width: 100px;
+}

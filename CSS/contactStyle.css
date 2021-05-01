@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    
+    /* background-image: linear-gradient(to right, #053137, #003655, #003779, #003095, #3e0098); */
+}
+.navbar{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    /* background-image: linear-gradient(to right, #053137, #003655, #003779, #003095, #3e0098); */
+    font-family: 'Texturina', serif;
+   
+}
+#searchButton{
+    background-image: linear-gradient(to right, #051937, #002c60, #003f8c, #0053bb, #1267eb);
+    color: azure;
+}
+#h1{
+    color: rgb(204, 12, 76);
+}
+#textFirst{
+    color: rgb(204, 12, 76);
+}
+#textLast{
+    color: rgb(204, 12, 76);
+}
+#textEmail{
+    color: rgb(204, 12, 76);
+}
+#textQuery{
+    color: rgb(204, 12, 76);
+}
+#textPhone{
+    color: rgb(204, 12, 76);
+}
+#textAddress{
+    color: rgb(204, 12, 76);
+}
+#textQuery{
+    color: rgb(204, 12, 76);
+}
+#textText{
+    color: rgb(204, 12, 76);
+}
